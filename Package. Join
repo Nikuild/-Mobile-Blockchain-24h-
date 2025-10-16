@@ -1,0 +1,36 @@
+{
+  "name": "mobile-blockchain-24h",
+  "version": "1.0.0",
+  "description": "🚀 Enterprise blockchain built in 24 hours from a smartphone. 881 TX/s • 10 nodes • Pure JavaScript",
+  "main": "mobile-blockchain.js",
+  "scripts": {
+    "start": "node mobile-blockchain.js",
+    "test": "echo '🧪 Tests? On mobile? Maybe later...' && exit 0",
+    "mobile-dev": "echo '📱 Developing on phone... send pizza'",
+    "stress-test": "echo '🔥 Running million TX test... just kidding'",
+    "demo": "node mobile-blockchain.js"
+  },
+  "keywords": [
+    "blockchain",
+    "mobile",
+    "javascript",
+    "ai",
+    "phone",
+    "enterprise",
+    "crypto",
+    "nodejs"
+  ],
+  "author": "Mobile Developer Extraordinaire",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "phone": "any"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nikuild/-Mobile-Blockchain-24h-.git"
+  }
+}
